@@ -1,6 +1,6 @@
 # Entity-Extraction-Model
 
-This repository contains the **Entity Extraction Model**, developed as part of a hackathon challenge to extract entity values from images using machine learning techniques.  
+This repository contains the **Entity Extraction Model**, developed as part of amazon hackathon challenge to extract entity values from images using machine learning techniques.  
 
 ## Features  
 - **Data Handling**: Processes images and associated metadata for entity extraction tasks.  
